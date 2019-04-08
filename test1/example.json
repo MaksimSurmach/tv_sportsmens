@@ -1,0 +1,10 @@
+{
+"employees":[
+  {"firstName":"Чарный", "lastName":"Антон"}, 
+  {"firstName":"Станислав", "lastName":"Пинчук"},
+  {"firstName":"Станислав", "lastName":"Пинчук"},
+  {"firstName":"Якуценя", "lastName":"Владимир"},
+  {"firstName":"Харук", "lastName":"Евгений"},
+  {"firstName":"Чарный", "lastName":"Антон"}
+]
+}
